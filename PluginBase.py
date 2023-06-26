@@ -3,5 +3,5 @@ class PluginBase():
     print("Loading Plugins:")
 
   def Plugins():
-    print("Plugins:", plugins.plugins)
+    print("Plugins:", pluginbase.init.list)
     
