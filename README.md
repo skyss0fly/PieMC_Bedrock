@@ -1,5 +1,5 @@
 # PieMC 
-This fork is maintained by skyss0fly, a developer of PieMC, to see the Official PieMC Software please go <a href="https://github.com/PieMC-Dev/PieMc">here</a>
+This fork is maintained by skyss0fly, a developer of PieMC, to test new Mechanics In testing of PieMC, to see the Official PieMC Software please go <a href="https://github.com/PieMC-Dev/PieMc">here</a>
 
 <p align="center">
   <img src="https://i.ibb.co/ws95McC/apple-pie-slice-scaled-64x-pngcrushed-1.png" alt="Image" width="200" height="200" />
