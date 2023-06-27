@@ -23,4 +23,6 @@ def __init__(self):
 
 
 class Math():
+ xyz = pos1 + pos2 + pos3
+  
   
