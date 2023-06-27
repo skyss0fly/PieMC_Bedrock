@@ -12,6 +12,7 @@
 [![Stars](https://img.shields.io/github/stars/PieMC-Dev/PieMC?style=social&color=blue)](https://github.com/PieMC-Dev/PieMC/stargazers)
 
 Server software for Minecraft: Bedrock Edition, written in Python. It is currently in the early stages of development. 🚧
+We are Looking For Developers, think your interested, see how to apply here: https://PieMC-dev.github.io/developers
 
 ## Getting Started
 
@@ -24,11 +25,12 @@ To run the server, execute the following command in PieMC directory:
 ```bash
 python PieMC.py
 ```
+or run `start.cmd`
 
 ## Functionality
 
 - ✅ Basic protocol
-- ⬜ MOTD
+- ✅ MOTD
 - ⬜ Game Protocol
 - ⬜ Plugins
 - ⬜ Permissions
@@ -49,7 +51,7 @@ python PieMC.py
   > Certainly! If you know Python and can understand the project's code, we welcome your contributions. Please submit your Pull Requests, and we will review them.
 
 - **Can I talk to the developer?**
-  > Yes, you can reach out to the developer via Telegram: [@LapisMYT](https://t.me/LapisMYT).
+  > Yes, you can reach out to LapisMYT via Telegram: [@LapisMYT](https://t.me/LapisMYT) Or join our Discord Server Here: [![Discord](https://img.shields.io/discord/1120767457364279338?color=blue)](https://discord.gg/Bf3cXRUUnm)
 
 - **Why Python specifically?**
   > Python is a simple and convenient language that many people know. We hope that this choice will make the project more accessible and maintainable by other developers.
@@ -92,7 +94,7 @@ Our roadmap outlines the future development plans for PieMC. We're excited about
 ## Phase 1: Foundational Development 🛠️
 
 - **Basic protocol ✅** - Implement the fundamental networking protocol for communication between the server and clients.
-- **MOTD ⬜** - Add support for the Message of the Day (MOTD) to display server information to players.
+- **MOTD ✅** - Add support for the Message of the Day (MOTD) to display server information to players.
 
 ## Phase 2: Core Features 🌟
 
